@@ -127,7 +127,7 @@ set the name of the template.
 ----------------------------------------------------------------------
 setup.template.json.enabled: true
 setup.template.json.path: "template.json"
-setup.template.json.name: "template-name
+setup.template.json.name: "template-name"
 ----------------------------------------------------------------------
 
 NOTE: If the JSON template is used, the `fields.yml` is skipped for the template
